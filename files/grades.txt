@@ -1,0 +1,4 @@
+<Pop & Ion>|<Romana>|<8>
+<Tudor & Vasile>|<Matematica>|<7>
+<Costel & Mihai>|<Istorie>|<5>
+<Popute & Maria>|<Matematica>|<6>
